@@ -31,7 +31,6 @@ CACHE_CONFIG = {
     "CACHE_KEY_PREFIX": "superset_light_",
 }
 DATA_CACHE_CONFIG = CACHE_CONFIG
-THUMBNAIL_CACHE_CONFIG = CACHE_CONFIG
 
 
 # Disable Celery entirely for lightweight mode
